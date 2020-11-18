@@ -280,4 +280,10 @@ $RECYCLE.BIN/
 
 **/desktop.ini
 desktop.ini
+
+
+*/node_modules/*
+node_modules
+**node_modules
+
 # End of https://www.toptal.com/developers/gitignore/api/git,gitbook,tortoisegit,phpstorm,phpstorm+iml,phpstorm+all,windows
